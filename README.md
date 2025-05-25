@@ -198,6 +198,11 @@ flutter test test/widget_test.dart
 # Integration tests
 flutter drive --target=test_driver/app.dart
 ```
+## 📸 Screenshots
+![WhatsApp Image 2025-05-25 at 11 24 57 PM](https://github.com/user-attachments/assets/48f940e2-8573-49ad-bb11-386b921855d5)
+![WhatsApp Image 2025-05-25 at 11 20 37 PM (1)](https://github.com/user-attachments/assets/d9b94024-8430-40e6-b8bf-24462775a519)
+![WhatsApp Image 2025-05-25 at 11 20 37 PM](https://github.com/user-attachments/assets/3258f244-221c-4b5a-b32e-8c7724075be1)
+![WhatsApp Image 2025-05-25 at 11 20 36 PM](https://github.com/user-attachments/assets/cfd6a4b2-72f6-43d6-b162-6feaac5ff6de)
 
 
 ## 🎨 Theming
